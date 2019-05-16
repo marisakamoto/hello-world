@@ -2,4 +2,4 @@
 
 
 Hola, mundo!
-Estudande de Engenharia Civil, aprendendo um poquito de tecnologia :)
+Estudante de Engenharia Civil, aprendendo um poquito de tecnologia :)
